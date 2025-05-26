@@ -1,5 +1,9 @@
 # get-cookies-puppeteer
 
+<div align="center">
+  <img src="icon.png" alt="get-cookies-puppeteer logo" width="128" height="128">
+</div>
+
 [![npm version](https://badge.fury.io/js/get-cookies-puppeteer.svg)](https://badge.fury.io/js/get-cookies-puppeteer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)](https://nodejs.org/)

@@ -41,10 +41,12 @@
     "url": "https://github.com/vardan-developer"
   },
   "license": "MIT",
+  "icon": "icon.png",
   "files": [
-    "src/",
+    "src/index.js",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "icon.png"
   ],
   "dependencies": {
     "puppeteer-core": "^24.9.0"
