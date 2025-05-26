@@ -1,6 +1,6 @@
 {
   "name": "get-cookies-puppeteer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight Node.js package that enables you to effortlessly retrieve all cookies from any specified website using Puppeteer. Perfect for web scraping, testing, automation, and development workflows.",
   "main": "src/index.js",
   "type": "module",
